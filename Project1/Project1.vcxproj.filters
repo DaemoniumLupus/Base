@@ -18,14 +18,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Задание 3,1.cpp">
-      <Filter>Модуль 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>Модуль 3</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Задание 3.2.cpp">
       <Filter>Модуль 3</Filter>
     </None>
