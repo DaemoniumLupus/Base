@@ -13,10 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Модуль 3">
+      <UniqueIdentifier>{4c7c6e0e-0753-4048-9b40-776d22b20b51}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Файлы ресурсов</Filter>
+    <ClCompile Include="Задание 3,1.cpp">
+      <Filter>Модуль 3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
