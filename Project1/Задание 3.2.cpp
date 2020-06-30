@@ -10,7 +10,7 @@ int main()
 
 
 	int total = 0;
-	int totalStage;
+	int totalStage = 0;
 	int stageIn;
 	int stageOut;
 	int ticetPrice = 20;
