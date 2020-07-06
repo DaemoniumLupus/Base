@@ -22,6 +22,8 @@
     <ClCompile Include="..\Source.cpp" />
     <ClCompile Include="..\Zadanie_3.2.cpp" />
     <ClCompile Include="..\Задание 3,1.cpp" />
+    <ClCompile Include="Zadanie 3.3.cpp" />
+    <ClCompile Include="Zadanie 3.4.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
