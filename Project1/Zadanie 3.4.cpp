@@ -1,5 +1,6 @@
 #include <iostream>
 #include <conio.h>
+#include <cmath>
 
 using namespace std;
 
@@ -29,9 +30,18 @@ void day()
 
 void height()
 {
-	cout << "Height";
-	
+	int a;//Высота
+	int i;
+	cout << "Введите требуемую высоту: ";
+	cin >> a;
 
+	for ( i = 1; setHeight < a ; i++)
+	{
+		setHeight = baseHeight + (growth - waning) * i;
+	}
+
+	cout << "Бамбук вырастет до высоты " << a << " за " << i + 1 << " дня(ей).";
+	
 }
 
 
@@ -57,6 +67,7 @@ int main()
 		<< "1.Узнать на сколько вырастет бамбук к середине заданного дня.\n"
 		<< "2.Узнать за сколько дней бамбук вырастет на заданную высоту.\n";
 	cin >> a;
+	system("cls");
 
 	switch (a)
 	{
