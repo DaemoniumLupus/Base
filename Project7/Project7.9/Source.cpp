@@ -7,7 +7,7 @@ int main()
 	setlocale(LC_ALL, "Russian");
 	system("color 02");
 
-	 _int64 income;
+	double income;
 	double tax;
 
 	cout << "¬ведите сумму дохода: ";
